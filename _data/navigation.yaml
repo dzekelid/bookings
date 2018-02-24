@@ -1,0 +1,433 @@
+- label: Analytics
+  slug: analytics
+  image: analytics.png
+  description: The section for analytics API for measuring and tracking.
+- label: Blockchain
+  slug: blockchains
+  image: blockchain.png
+  description: Bitcoin, Etherium and other Blockchain APIs for streaming.
+- label: Developers
+  slug: developers
+  image: developers.png
+  description: API driven solutions for developers to do wha they do.
+- label: Images
+  slug: images
+  image: images.png
+  description: Photos, images, icons, and all the visual APIs.
+- label: Links
+  slug: links
+  image: links.png
+  description: API tooling for managing links, and operating on the web.
+- label: Market Data
+  slug: market-data
+  image: market-data.png
+  description: Access to inancial market data APIs, and data sources.
+- label: Media
+  slug: media
+  image: media.png
+  description: Content, media, and other APIs that deliver rich media.
+- label: Messaging
+  slug: messaging
+  image: messaging.png
+  description: APIs for sending emails, SMS, and other messaging formats.
+- label: Monitoring
+  slug: monitoring
+  image: monitoring.png
+  description: The APIs that monitor the APIs, ensuring APIs are reliable.
+- label: Payments
+  slug: payments
+  image: payments.png
+  description: Payment, transaction, billing and other financial APIs.
+- label: Productivity
+  slug: productivity
+  image: productivity.png
+  description: APIs that enable productivity within other applications.
+- label: Social Network
+  slug: social-network
+  image: social-network.png
+  description: Social networking APIs for use in other applications.
+- label: Transportation
+  slug: transportation
+  image: transportation.png
+  description: Transportation, transit and other APIs that move us around.
+- label: Weather
+  slug: weather
+  image: weather.png
+  description: Weather and environmental APIs for managing world around us.
+- label: Videos
+  slug: videos
+  image: videos.png
+  description: APIs for accessing and viewing videos via web technology.
+- label: UK Banks
+  slug: uk-banks
+  image: uk-banks.png
+  description: These are the APIs for banks in the United Kingdom (UK).
+- label: Advertising
+  slug: advertising
+  image: advertising.png
+  description: The section for advertising API providers.
+- label: Airlines
+  slug: airlines
+  image: airlines.png
+  description: The section for airlines API providers.
+- label: Analysis
+  slug: analysis
+  image: analysis.png
+  description: The section for analysis API providers.
+- label: Applications
+  slug: applications
+  image: applications.png
+  description: The section for applications API providers.
+- label: Authentication
+  slug: authentication
+  image: authentication.png
+  description: The section for authentication API providers.
+- label: Availability
+  slug: availability
+  image: availability.png
+  description: The section for availability API providers.
+- label: Backups
+  slug: backups
+  image: backups.png
+  description: The section for backups API providers.
+- label: Batch
+  slug: batch
+  image: batch.png
+  description: The section for batch API providers.
+- label: Beacons
+  slug: beacons
+  image: beacons.png
+  description: The section for beacons API providers.
+  description: The section for billing API providers.
+- label: Billing
+  slug: billing
+  image: billing.png
+  description: The section for billing API providers.
+- label: Cache
+  slug: cache
+  image: cache.png
+  description: The section for cache API providers.
+- label: CDN
+  slug: cdn
+  image: cdn.png
+  description: The section for cdn API providers.
+- label: Certificates
+  slug: certificates
+  image: certificates.png
+  description: The section for certificates API providers.
+- label: Code
+  slug: code
+  image: code.png
+  description: The section for code API providers.
+- label: Commerce
+  slug: commerce
+  image: commerce.png
+  description: The section for commerce API providers.
+- label: Compute
+  slug: compute
+  image: compute.png
+  description: The section for compute API providers.
+- label: Containers
+  slug: containers
+  image: containers.png
+  description: The section for containers API providers.
+- label: Data
+  slug: data
+  image: data.png
+  description: The section for data API providers.
+- label: Database
+  slug: database
+  image: database.png
+  description: The section for database API providers.
+- label: Deployment
+  slug: deployment
+  image: deployment.png
+  description: The section for deployment API providers.
+- label: Desktops
+  slug: desktops
+  image: desktops.png
+  description: The section for desktops API providers.
+- label: Devices
+  slug: devices
+  image: devices.png
+  description: The section for devices API providers.
+- label: Diagnostics
+  slug: diagnostics
+  image: diagnostics.png
+  description: The section for diagnostics API providers.
+- label: Discovery
+  slug: discovery
+  image: discovery.png
+  description: The section for discovery API providers.
+- label: DNS
+  slug: dns
+  image: dns.png
+  description: The section for dns API providers.
+- label: Documents
+  slug: documents
+  image: documents.png
+  description: The section for documents API providers.
+- label: Education
+  slug: education
+  image: education.png
+  description: The section for education API providers.
+- label: Email
+  slug: email
+  image: email.png
+  description: The section for email API providers.
+- label: Embeddable
+  slug: embeddable
+  image: embeddable.png
+  description: The section for embeddable API providers.
+- label: Encryption
+  slug: encryption
+  image: encryption.png
+  description: The section for encryption API providers.
+- label: Facial Recognition
+  slug: facial_recognition
+  image: facial_recognition.png
+  description: The section for facial recognition API providers.
+- label: Firewall
+  slug: firewall
+  image: firewall.png
+  description: The section for firewall API providers.
+- label: Fitness
+  slug: fitness
+  image: fitness.png
+  description: The section for fitness API providers.
+- label: Fonts
+  slug: fonts
+  image: fonts.png
+  description: The section for fonts API providers.
+- label: Gaming
+  slug: gaming
+  image: gaming.png
+  description: The section for gaming API providers.
+- label: Gateway
+  slug: gateway
+  image: gateway.png
+  description: The section for gateway API providers.
+- label: Genome
+  slug: genome
+  image: genome.png
+  description: The section for genome API providers.
+- label: Government
+  slug: government
+  image: government.png
+  description: The section for government API providers.
+- label: Identity
+  slug: identity
+  image: identity.png
+  description: The section for identity API providers.
+- label: iPaaS
+  slug: ipaas
+  image: ipaas.png
+  description: The section for ipaas API providers.
+- label: Jobs
+  slug: jobs
+  image: jobs.png
+  description: The section for jobs API providers.
+- label: Licensing
+  slug: licensing
+  image: licensing.png
+  description: The section for licensing API providers.
+- label: Logging
+  slug: logging
+  image: logging.png
+  description: The section for logging API providers.
+- label: Machine Learning
+  slug: machine_learning
+  image: machine_learning.png
+  description: The section for machine learning API providers.
+- label: Management
+  slug: management
+  image: management.png
+  description: The section for management API providers.
+- label: Manufacturing
+  slug: manufacturing
+  image: manufacturing.png
+  description: The section for manufacturing API providers.
+- label: Mapping
+  slug: mapping
+  image: mapping.png
+  description: The section for mapping API providers.
+- label: Migration
+  slug: migration
+  image: migration.png
+  description: The section for migration API providers.
+- label: Monetization
+  slug: monetization
+  image: monetization.png
+  description: The section for monetization API providers.
+- label: Movies
+  slug: movies
+  image: movies.png
+  description: The section for movies API providers.
+- label: Natural Language
+  slug: natural_language
+  image: natural_language.png
+  description: The section for natural language API providers.
+- label: Networks
+  slug: networks
+  image: networks.png
+  description: The section for networks API providers.
+- label: Notifications
+  slug: notifications
+  image: notifications.png
+  description: The section for notifications API providers.
+- label: Object Recognition
+  slug: object_recognition
+  image: object_recognition.png
+  description: The section for object recognition API providers.
+- label: Orchestration
+  slug: orchestration
+  image: orchestration.png
+  description: The section for orchestration API providers.
+- label: Partners
+  slug: partners
+  image: partners.png
+  description: The section for partners API providers.
+- label: People
+  slug: people
+  image: people.png
+  description: The section for people API providers.
+- label: Performance
+  slug: performance
+  image: performance.png
+  description: The section for performance API providers.
+- label: Predictions
+  slug: predictions
+  image: predictions.png
+  description: The section for predictions API providers.
+- label: Privacy
+  slug: privacy
+  image: privacy.png
+  description: The section for privacy API providers.
+- label: Proxy
+  slug: proxy
+  image: proxy.png
+  description: The section for proxy API providers.
+- label: Real Time
+  slug: real_time
+  image: real_time.png
+  description: The section for real time API providers.
+- label: Recovery
+  slug: recovery
+  image: recovery.png
+  description: The section for recovery API providers.
+- label: Regulations
+  slug: regulations
+  image: regulations.png
+  description: The section for regulations API providers.
+- label: Resellers
+  slug: resellers
+  image: resellers.png
+  description: The section for resellers API providers.
+- label: Science
+  slug: science
+  image: science.png
+  description: The section for science API providers.
+- label: Scripts
+  slug: scripts
+  image: scripts.png
+  description: The section for scripts API providers.
+- label: SDK
+  slug: sdk
+  image: sdk.png
+  description: The section for sdk API providers.
+- label: Search
+  slug: search
+  image: search.png
+  description: The section for search API providers.
+- label: Security
+  slug: security
+  image: security.png
+  description: The section for security API providers.
+- label: Sensors
+  slug: sensors
+  image: sensors.png
+  description: The section for sensors API providers.
+- label: Sentiment analysis
+  slug: sentiment_analysis
+  image: sentiment_analysis.png
+  description: The section for sentiment analysis API providers.
+- label: Serverless
+  slug: serverless
+  image: serverless.png
+  description: The section for serverless API providers.
+- label: Slides
+  slug: slides
+  image: slides.png
+  description: The section for slides API providers.
+- label: Speech
+  slug: speech
+  image: speech.png
+  description: The section for speech API providers.
+- label: Speech Recognition
+  slug: speech_recognition
+  image: speech_recognition.png
+  description: The section for speech recognition API providers.
+- label: Spreadsheets
+  slug: spreadsheets
+  image: spreadsheets.png
+  description: The section for spreadsheets API providers.
+- label: Stability
+  slug: stability
+  image: stability.png
+  description: The section for stability API providers.
+- label: Status
+  slug: status
+  image: status.png
+  description: The section for status API providers.
+- label: Storage
+  slug: storage
+  image: storage.png
+  description: The section for storage API providers.
+- label: Surveys
+  slug: surveys
+  image: surveys.png
+  description: The section for surveys API providers.
+- label: Tags
+  slug: tags
+  image: tags.png
+  description: The section for tags API providers.
+- label: Tasks
+  slug: tasks
+  image: tasks.png
+  description: The section for tasks API providers.
+- label: Testing
+  slug: testing
+  image: testing.png
+  description: The section for testing API providers.
+- label: Text Recognition
+  slug: text_recognition
+  image: text_recognition.png
+  description: The section for text recognition API providers.
+- label: Traffic
+  slug: traffic
+  image: traffic.png
+  description: The section for traffic API providers.
+- label: Translation
+  slug: translation
+  image: translation.png
+  description: The section for translation API providers.
+- label: Users
+  slug: users
+  image: users.png
+  description: The section for users API providers.
+- label: Visualizations
+  slug: visualizations
+  image: visualizations.png
+  description: The section for visualizations API providers.
+- label: Voice
+  slug: voice
+  image: voice.png
+  description: The section for voice API providers.
+- label: Wearables
+  slug: wearables
+  image: wearables.png
+  description: The section for wearables API providers.
+- label: Webhooks
+  slug: webhooks
+  image: webhooks.png
+  description: The section for webhooks API providers.
