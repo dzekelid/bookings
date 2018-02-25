@@ -13,7 +13,7 @@
          {% for entry in listing_object %}
            {% if entry.name %}
             {% for api in entry.apis %}
-               {% if item.info.title == api.name %}
+               {% if entry.name == item.x-collection-name %}
                  {% assign api_name = entry.name %}
                  {% assign api_slug = api_name | replace: ' ','-' | replace: '/','' | replace: '&','-' | replace: '=','-' | replace: '{','-' | replace: '}','-' | replace: '?','-' | replace: '_','-' | replace: '--','-' | downcase %}
                  {% assign api_description = entry.description %}
@@ -42,7 +42,7 @@
          {% if verb == 'get' %}
            <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">
               <div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">
-                 <div class="taggedLinkCard__upper">
+                 <div class="taggedLinkCard__upper" style="background-color:#FFF;">
                     <a href="/{{ tag_slug }}/{{ api_slug }}/{{ api_path_slug }}/"><img src="{{ api_image }}" class="taggedLinkCard__image" alt=""></a>
                  </div>
                  <div class="taggedLinkCard__lower">
