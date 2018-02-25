@@ -8,7 +8,7 @@ layout: default
 {% assign slug = page.info.title %}
 {% for item in site.listings %}
   {% if item.name %}
-    {% if slug == item.name %}
+    {% if page.x-collection-name == item.name %}
       {% assign apis_json = item %}
     {% endif %}
   {% endif %}
