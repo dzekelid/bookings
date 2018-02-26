@@ -6,8 +6,8 @@
      <select name="filter" id="tagfilter">
      {% assign navigation = site.data.navigation | sort: 'label' %}
      {% for nav in navigation %}}
-         <option value="https://streamdata-gallery.github.io/apis/{{ nav.slug }}/apis/"{% if nav.label == site.tag %} selected{% endif %}>{{ nav.label }}</option>
-    {% endfor %}
+         <option value="{{ nav.url }}"{% if nav.label == site.tag %} selected{% endif %}>{{ nav.label }}</option>
+     {% endfor %}
      </select>
      <input type="button" onclick="filterbytag();" name="filter_by" value="Go" />
    </form>
