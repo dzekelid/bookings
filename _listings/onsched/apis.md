@@ -12,11 +12,41 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: ""
 tags: Bookings
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/onsched/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: 'OnSched API - '
+  x-api-slug: consumerv1appointmentsbookingfields-get
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/onsched-logo.png
+  humanURL: http://www.onsched.com
+  baseURL: https://api.onsched.com//
+  tags: API Provider, Bookings, Profiles, Schedules, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/onsched/consumerv1appointmentsbookingfields-get-openapi.md
+- name: 'OnSched API - '
+  x-api-slug: consumerv1appointmentsbookingfields-get
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/onsched-logo.png
+  humanURL: http://www.onsched.com
+  baseURL: https://api.onsched.com//
+  tags: API Provider, Bookings, Profiles, Schedules, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/onsched/consumerv1appointmentsbookingfields-get-openapi.md
+- name: 'OnSched API - '
+  x-api-slug: consumerv1appointmentsbookingfields-get
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/onsched-logo.png
+  humanURL: http://www.onsched.com
+  baseURL: https://api.onsched.com//
+  tags: API Provider, Bookings, Profiles, Schedules, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/onsched/consumerv1appointmentsbookingfields-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://onenote.api.gallery.streamdata.io

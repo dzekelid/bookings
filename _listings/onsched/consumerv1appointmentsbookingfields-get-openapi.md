@@ -1,9 +1,10 @@
+---
 swagger: "2.0"
 x-collection-name: OnSched
-x-complete: 1
+x-complete: 0
 info:
-  title: OnSched API
-  description: build-secure-and-scalable-custom-apps-for-online-booking--our-flexible-api-provides-many-options-for-availability-and-booking--take-the-api-for-a-test-drive--just-click-on-the-authorize-button-above-and-authenticate---you-can-access-our-demo-company-profile-if-you-are-not-a-customer-or-your-own-profile-by-using-your-assigned-clientid-and-secret---------------------
+  title: 'OnSched '
+  description: ""
   termsOfService: None
   contact:
     name: OnSched.com
@@ -34,3 +35,17 @@ paths:
       tags:
       - Appointments
       - Bookingfields
+x-streamrank:
+  polling_total_time_average: 0
+  polling_size_download_average: 0
+  streaming_total_time_average: 0
+  streaming_size_download_average: 0
+  change_yes: 0
+  change_no: 0
+  time_percentage: 0
+  size_percentage: 0
+  change_percentage: 0
+  last_run: ""
+  days_run: 0
+  minute_run: 0
+---

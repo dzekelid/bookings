@@ -1,0 +1,299 @@
+{
+	"name": "Streadata.io API Gallery - Bookings",
+	"description": "This is a repository of bookings APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/bookings.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://bookings.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Diffbot",
+			"x-api-slug": "diffbot",
+			"description": "Never write another web scraper. Diffbot automates web data extraction from any website using AI, computer vision, &amp; machine learning.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/181-diffbot.jpg",
+			"humanURL": "http://www.diffbot.com/our-apis/follow/",
+			"baseURL": "https:////",
+			"tags": "Bookings",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/diffbot/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Expedia",
+			"x-api-slug": "expedia",
+			"description": "Expedia Affiliate Network is the B2B partnership brand of Expedia, Inc. Our technology powers the hotel offering of thousands of partners around the world.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/195-expedia.jpg",
+			"humanURL": "http://developer.ean.com/",
+			"baseURL": "https://apim.expedia.com/x/",
+			"tags": "Bookings",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/expedia/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "46elks",
+			"x-api-slug": "46elks",
+			"description": "Adding SMS and Voice to your application or service should be easy. Phone calls, SMS & MMS in one easy API. For developers, built by developers.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/289-46elks.jpg",
+			"humanURL": "http://46elks.com/",
+			"baseURL": "https:///",
+			"tags": "Bookings",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/46elks/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TourCMS Marketplace",
+			"x-api-slug": "tourcms-marketplace",
+			"description": "Web based reservation & distribution system for specialist tour operators & activity companies",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/501-tourcms-marketplace.jpg",
+			"humanURL": "http://www.tourcms.com/support/api/mp/",
+			"baseURL": "https:///",
+			"tags": "Bookings",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/tourcms-marketplace/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Conferma",
+			"x-api-slug": "conferma",
+			"description": "Redefining corporate payment technology with Virtual Card Numbers. Experts in corporate travel and expense, extending VCNs into B2B payments",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/561-conferma.jpg",
+			"humanURL": "http://www.conferma.com",
+			"baseURL": "https:///",
+			"tags": "Bookings",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/conferma/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "planyo",
+			"x-api-slug": "planyo",
+			"description": "Planyo is a flexible online reservation system / booking software for any business which needs scheduling and managing their bookings.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/637-planyo.jpg",
+			"humanURL": "http://www.planyo.com/",
+			"baseURL": "https:///",
+			"tags": "Bookings",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/planyo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Travelport News",
+			"x-api-slug": "travelport-news",
+			"description": "Travelport Limited provides business services, as well as transaction processing solutions and data to companies operating in the travel industry worldwide. The company???????s Global Distribution Systems segment provides aggregation, search, and transaction processing services that allow travel suppliers and travel agencies to search, process, and book itinerary and pricing options across various travel suppliers. This segment also provides hosting solutions; and IT software subscription and business intelligence services to airlines. Its Gulliver???????s Travel Associates segment distributes accommodation, ground travel, sightseeing, and other destination services, including airline, car rental, hotel, and other travel reservation and fulfillment services to travel wholesalers, tour operators, and travel agencies, as well as directly to consumers. The company operates approximately 20 brands, including Galileo and Worldspan global distribution systems, and Gulliver???????s Travel Associates.Travelport Limited is headquartered in New York.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/665_logo.jpg",
+			"humanURL": "http://www.travelportuniversalapi.com/",
+			"baseURL": "https:///",
+			"tags": "Bookings",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/travelport-news/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BookingSync",
+			"x-api-slug": "bookingsync",
+			"description": "Vacation rental property management software. Save Time & Book More with our Reservation System, Channel Manager and Website Builder. Request a Demo!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/712-bookingsync.jpg",
+			"humanURL": "https://www.bookingsync.com/",
+			"baseURL": "https:///",
+			"tags": "Bookings",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/bookingsync/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "MINDBODY",
+			"x-api-slug": "mindbody",
+			"description": "See how MINDBODY business management software serves gyms, spas and salons worldwide, and helps people find and book with them.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/850-mindbody.jpg",
+			"humanURL": "http://www.mindbodyonline.com",
+			"baseURL": "https:///",
+			"tags": "Bookings",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/mindbody/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Travelocity",
+			"x-api-slug": "travelocity",
+			"description": "Wander Wisely with the Price Match Guarantee, Free Changes & Cancellations, 24/7 Personal Assistance only with Travelocitys Customer First Guarantee. Book & Save on Packages, Hotels, Flights, Cars, Cruises & more Today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1183-travelocity.jpg",
+			"humanURL": "http://connect.travelocity.com/",
+			"baseURL": "https:///",
+			"tags": "Bookings",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/travelocity/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Regus USA",
+			"x-api-slug": "regus-usa",
+			"description": "Regus offer serviced office space, virtual offices, co-working spaces, and meeting rooms in centers across the world. Get A Quote.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1271-regus-usa.jpg",
+			"humanURL": "http://developer.regus.com",
+			"baseURL": "https:///",
+			"tags": "Bookings",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/regus-usa/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pingup",
+			"x-api-slug": "pingup",
+			"description": "Pingup provides direct, convenient access to the real-time scheduling availability of local businesses nationwide, anytime, anywhere - putting the power of action into the hands of the mobile consumer. With its mobile API, Pingup enables directories and local listings providers to quickly and seamlessly bring the power of book it now to mobile consumers everywhere. With more than 30,000 properties across 200 business categories on the Pingup platform, the company continues to add thousands of new businesses to its network each month.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pingup-logo-horizontal-preview.png",
+			"humanURL": "http://pingup.com/",
+			"baseURL": "https:///",
+			"tags": "Bookings",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/pingup/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OnSched",
+			"x-api-slug": "onsched",
+			"description": "Build secure and scalable custom apps for Online Booking. Our flexible API provides many options for availability and booking. OnSched is an API first booking software that allows you to bring your design to life by creating your own booking flow. Using our robust API you can customize the interaction between your consumers and vendors while we do all the leg work behind the scenes. Want to offer online booking to your vendors? Ask about our white labelling solutions and rebrand our software as your own.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/onsched-logo.png",
+			"humanURL": "http://www.onsched.com",
+			"baseURL": "https://api.onsched.com//",
+			"tags": "Bookings",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/onsched/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bookeo",
+			"x-api-slug": "bookeo",
+			"description": "Bookeo provides a leading online booking and scheduling system for tours, classes, and appointments, to help you save money and time. Click to learn more!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28769-www-bookeo-com.jpg",
+			"humanURL": "https://www.bookeo.com",
+			"baseURL": "https://api.bookeo.com//v2",
+			"tags": "Bookings",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/bookeo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Bookings",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/dezrez/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Bookings",
+	"include": [
+		{
+			"name": "Diffbot",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/diffbot/apis.yaml"
+		},
+		{
+			"name": "Expedia",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/expedia/apis.yaml"
+		},
+		{
+			"name": "46elks",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/46elks/apis.yaml"
+		},
+		{
+			"name": "TourCMS Marketplace",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/tourcms-marketplace/apis.yaml"
+		},
+		{
+			"name": "Conferma",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/conferma/apis.yaml"
+		},
+		{
+			"name": "planyo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/planyo/apis.yaml"
+		},
+		{
+			"name": "Travelport News",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/travelport-news/apis.yaml"
+		},
+		{
+			"name": "BookingSync",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/bookingsync/apis.yaml"
+		},
+		{
+			"name": "MINDBODY",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/mindbody/apis.yaml"
+		},
+		{
+			"name": "Travelocity",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/travelocity/apis.yaml"
+		},
+		{
+			"name": "Regus USA",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/regus-usa/apis.yaml"
+		},
+		{
+			"name": "Pingup",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/pingup/apis.yaml"
+		},
+		{
+			"name": "OnSched",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/onsched/apis.yaml"
+		},
+		{
+			"name": "Bookeo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/bookeo/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/bookings/master/_listings/dezrez/apis.yaml"
+		}
+	]
+}
